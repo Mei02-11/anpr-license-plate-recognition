@@ -25,12 +25,15 @@ This project implements an Automatic Number Plate Recognition (ANPR) system usin
 
 ## Sample output
 Original Photo 
+
 <img width="500" alt="original image" src="https://github.com/user-attachments/assets/38847643-033a-4731-a892-05327f6bef72" />
 
 Object Finding & Masking Photo
+
 <img width="500" alt="plate finding and masking" src="https://github.com/user-attachments/assets/45fbc759-c33b-43b1-b5dd-d72e46ce16d7" />
 
 Enlarged Photo
+
 <img width="500" alt="enlarged" src="https://github.com/user-attachments/assets/aab039d8-48ae-4bfe-9160-07839fe0db45" />
 
 
